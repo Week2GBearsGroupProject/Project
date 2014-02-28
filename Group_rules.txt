@@ -1,0 +1,29 @@
+who is part of the team (by naming individuals)?
+  -Matt Lyndsey Jackson Janet
+what roles do they play (although generic roles are ok, specific roles are better)?
+  - Working on getting specific indpendent modules working
+how do people stay in touch (cell phones, email, etc)?
+  - text if offline to notify of group activity, when online -> in google hangout
+when will the team work together vs apart?
+  - Grouping for breaking down project
+  - splitting off to implement distinct chunks of working code
+  - periodic group check-ins to stay in sync
+what are the working hours?
+  - DBC hours + collaborative
+    - Janet gone at 6pm, Janet moving during day Sat
+    - Matt flexible, working from home if not everyone here
+    - Jackson flexible
+    - Lyndsey flexible, could come in Sat, Sun not as available (some from home)
+
+    Fri - group till 6pm
+    sat - Lyndsey AM - early evening, Janet 5pm on
+    Sun - maybe stay home, work remotely
+
+what absences are expected?
+  see above
+what are your goals as a team?
+  - Get MVP by 6pm Friday, building on it Sat/Sun
+  - Get structure/interfaces between sepearte files/classes pinned down
+  - Keep master always functioning while individuals/small groups work on branches to add a feature, merging when fully functional
+what are your shared values as a team?
+  -
