@@ -63,7 +63,7 @@ class QuizProgram
       cur_question = quiz1.next_question
 
       #Tell display to show user the question
-      Display.show_question(cur_question)
+      Display.show_question(cur_question.question)
 
       #Get user input
       user_answer = gets.chomp
