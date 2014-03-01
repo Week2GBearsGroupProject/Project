@@ -20,32 +20,7 @@
 # #   convert_txt_to_quizinit(filepath)
 # # end
 
-class Quiz
-def initialize
-  @questions = []
-  #Read in a txt file and fill this array with initialized Question objects
-end
-
-def next_question
-  #return a Question object
-end
-
-
-end
-
-
-class Question
-  attr_reader :question, :answer
-#stores question and answer text and stores them internally
-#be able to call question and answer
-#if using a hash then question refers to the key and answer value
-#returns strings of question/answer
-  def initialize(options = {})
-    @question = options[:question]  #-> these are strings
-    @answer = options[:answer]
-  end
-
-end
+require_relative 'data'
 
 require_relative 'displayclass'
 
@@ -81,7 +56,9 @@ class QuizProgram
   end
 end
 
+QuizProgram.run
 
+nil
 
 
 
