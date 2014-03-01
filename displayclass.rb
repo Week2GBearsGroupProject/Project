@@ -5,7 +5,7 @@ class Display
     end
 
     def show_question(input_string)
-        puts next_question #puts result of next_question function, retrieved from Quiz object
+        puts "Question is: #{input_string}"
     end
 
     def show_wrong_answer
