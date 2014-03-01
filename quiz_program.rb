@@ -47,6 +47,7 @@ class Question
 
 end
 
+require_relative 'displayclass'
 
 class QuizProgram
   def self.run
@@ -80,25 +81,6 @@ class QuizProgram
   end
 end
 
-class Display
-  class << self
-    def welcome_screen
-    end
-
-    def show_question(input_string)
-    end
-
-    def show_wrong_answer
-    end
-
-    def show_correct_answer
-    end
-
-    def summary_screen(score, max_score)
-    end
-
-  end
-end
 
 
 
